@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IverSutizal" target="_blank">
-  <img src="https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg" with="300" height="300" padding="auto" border="radius">
+  <img src="https://www.ebankingnews.com/wp-content/uploads/2018/03/inteligencia-artificial-03.jpg" with="300" height="300" padding="auto" border="radius">
   </a>
   <p align="center">I'm Iver Sutizal <strong> future Programmer</strong>
 
@@ -12,24 +12,24 @@
   <a href="https://twitter.com/IverSutizal" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
   </a>
-  <a href="https://www.instagram.com/iversutizal/" target="_blank">
+  <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/iver-sutizal-3aa913197/" target="_blank">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6946127934281666561/" target="_blank">
     <img height="32" src="https://www.marcoszuniga.com/wp-content/uploads/2020/05/Linkedin-Logo.png" target="_blank">
   </a>
-  <a href="https://medium.com/@iversutizal" target="_blank">
+  <a href="https://medium.com/@cesarjulianzeabravo/static-libraries-in-c-f540c96f2dcb" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/channel/UCaFAl3KzbcNQl29MG5PAxqA" target="_blank">
+  <a href="https://www.youtube.com/channel/UCPuCeKKZq2ornYAziTYkvdA" target="_blank">
     <img height="32" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" target="_blank">
   </a>
 </div>
 
 <h2>𝓢𝓽𝓪𝓽𝓼:</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IverSutizal&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IverSutizal&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianZea&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianZea&layout=compact&theme=tokyonight">
 </div>
 
 <h2>𝙎𝙠𝙞𝙡𝙡𝙨:</h2>
@@ -82,11 +82,17 @@
 <a href="https://www.youtube.com/watch?v=3bY6BlFgz8Y&list=PL0YEPAzWUDJkk-SCmJltqXTMPTxQr6Dq5" target="_blank">
     <img height="50" src="https://i.scdn.co/image/ab67616d0000b273e30da1080d1bdfcf18f962ea">
   </a>
-<h2> START 𝓘𝓹𝓵𝓾𝓽𝓸𝓷 </h2>
+<h2> 𝓘𝓹𝓵𝓾𝓽𝓸𝓷 </h2>
 <a href="https://ipluton.com" target="_blank">
     <img height="50" src="https://ipluton.com/favicon/apple-icon-180x180.png"> </a>
-
+<h2>𝙲𝚛𝚊𝚐𝚔𝚜</h2>
+<a href="https://github.com/agerard14/agerard14/blob/main/README.md" target="_blank">
+    <img height="50" src="https://pbs.twimg.com/profile_images/1525999220926435329/X3Ntt2Gi_400x400.jpg"> </a>
+<a href="https://github.com/carloscm2022" target="_blank">
+    <img height="50" src="https://scontent.flim15-1.fna.fbcdn.net/v/t31.18172-8/15304262_1243904645672226_3029744590826140326_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGbbK2-xiDtBU2p1LTMccnRp_5BsI58paSn_kGwjnylpHFEWn2o3Kfdj97EqsLJL3MahGsFD4wvL_TBeGtuPF1z&_nc_ohc=mofkJkZVwVkAX_egjxO&_nc_ht=scontent.flim15-1.fna&oh=00_AT_o_1EB9Mf4c-yZXs3_JPSlBTpYhx9DQm0nkciQtSsubA&oe=62DC9485"> </a>
   
+
+
 <h2>𓂀 ⚡𝕍𝕚𝕕𝕖𝕠 𝕘𝕒𝕞𝕖𝕤⚡ 𓂀</h2>
 <a href="https://www.rockstargames.com/gta-v" target="_blank">
     <img height="50" src="https://i.pinimg.com/originals/62/0c/89/620c89a5f0347147ea17036be706fc1b.png"> </a>
