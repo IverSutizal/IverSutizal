@@ -2,14 +2,14 @@
   <a href="https://github.com/IverSutizal" target="_blank">
   <img src="https://www.muyseguridad.net/wp-content/uploads/2022/04/anonymous.jpg" with="300" height="300" padding="auto" border="radius">
   </a>
-  <p align="center">I'm Julian Zea <strong> future Programmer</strong>
+  <p align="center">I'm Iver Sutizal <strong> future Programmer</strong>
 
 <p align="center">My goal in programming career is to be able to create what I can imagine, without limits and make everything possible.</p>
-<p align="center">Canserbero "all we need is love"</p>
+<p align="center">Iver Sutizal"</p>
 
 
 <div align="center">
-  <a href="https://twitter.com/JulinZea2?t=m4NUcgnp_nat0arm-We0JQ&s=08" target="_blank">
+  <a href="https://twitter.com/IverSutizal" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
   </a>
   <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
