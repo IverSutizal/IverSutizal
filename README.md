@@ -12,16 +12,16 @@
   <a href="https://twitter.com/IverSutizal" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
   </a>
-  <a href="https://www.instagram.com/cesarjulianzea/" target="_blank">
+  <a href="https://www.instagram.com/iversutizal/" target="_blank">
     <img height="32" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6946127934281666561/" target="_blank">
+  <a href="https://www.linkedin.com/in/iver-sutizal-3aa913197/" target="_blank">
     <img height="32" src="https://www.marcoszuniga.com/wp-content/uploads/2020/05/Linkedin-Logo.png" target="_blank">
   </a>
-  <a href="https://medium.com/@cesarjulianzeabravo/static-libraries-in-c-f540c96f2dcb" target="_blank">
+  <a href="https://medium.com/@iversutizal" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/channel/UCPuCeKKZq2ornYAziTYkvdA" target="_blank">
+  <a href="https://www.youtube.com/channel/UCaFAl3KzbcNQl29MG5PAxqA" target="_blank">
     <img height="32" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" target="_blank">
   </a>
 </div>
